@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title></title>
+    <url>/2020/09/18/first/</url>
+    <content><![CDATA[<h1 id="My-first-Blog"><a href="#My-first-Blog" class="headerlink" title="My first Blog"></a>My first Blog</h1><h2 id="大家好！"><a href="#大家好！" class="headerlink" title="大家好！"></a>大家好！</h2><h2 id="欢迎来到我的个人博客，这里会记录我的学习经历。"><a href="#欢迎来到我的个人博客，这里会记录我的学习经历。" class="headerlink" title="欢迎来到我的个人博客，这里会记录我的学习经历。"></a>欢迎来到我的个人博客，这里会记录我的学习经历。</h2><h2 id="玩的开心哦！"><a href="#玩的开心哦！" class="headerlink" title="玩的开心哦！"></a>玩的开心哦！</h2><p><img src="/images/laugh.png"></p>
+<p><img src="/images/loser.jpg"></p>
+<p><img src="/images/water.gif"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2020/09/19/C%E5%9F%BA%E7%A1%801/</url>
+    <content><![CDATA[<p>％d整型输出，％ld长整型输出，</p>
+<p>％o以八进制数形式输出整数，</p>
+<p>％x以十六进制数形式输出整数，</p>
+<p>％u以十进制数输出unsigned型数据(无符号数)。</p>
+<p>％c用来输出一个字符，</p>
+<p>％s用来输出一个字符串，</p>
+<p>％f用来输出实数，以小数形式输出，（备注：浮点数是不能定义如的精度的，所以“%6.2f”这种写法是“错误的”！！！）</p>
+<p>％e以指数形式输出实数，</p>
+<p>％g根据大小自动选f格式或e格式，且不输出无意义的零。</p>
+<p>scanf(控制字符，地址列表)<br>格式字符的含义同printf函数，地址列表是由若干个地址组成的表列，可以是变量的地址，或字符串的首地址。如scanf(“％d％c％s”,&amp;a,&amp;b,str)；</p>
+]]></content>
+  </entry>
+</search>
